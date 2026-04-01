@@ -1,0 +1,14 @@
+//Java Data Structures & Algorithms
+//A collection of classic DSA implementations in Java.
+//Folder	Contents:
+//sorting/	BubbleSort, MergeSort, QuickSort
+//linkedlist/	Singly Linked List (insert, delete, reverse, search)
+//stack/	Array-based Stack
+//queue/	LinkedList-based Queue
+//binarytree/	Binary Search Tree (insert, search, traversals)
+
+javac sorting/BubbleSort.java && java sorting.BubbleSort
+javac linkedlist/SinglyLinkedList.java && java linkedlist.SinglyLinkedList
+javac stack/StackArray.java && java stack.StackArray
+javac queue/QueueLinkedList.java && java queue.QueueLinkedList
+javac binarytree/BinarySearchTree.java && java binarytree.BinarySearchTree
